@@ -27,7 +27,7 @@ body{
     width: fit-content;
     padding-left: 3%;
     padding-right: 3%;
-    margin: 0 auto;
+    margin: -7 px;
 }
 #topTitle{
     font-size: 2em;
@@ -121,6 +121,7 @@ body{
 }
 .card .card-content{
     padding: 15px;
+    margin:-8px;
 }
 
 .card-image{
