@@ -141,7 +141,14 @@ body{
     font-size: 1.18em;
 }
 
+.card .medium
+{
+    height:430px;
+}
 
+.card .card-content p {
+    margin: -2px;
+}
 /* responsive text sizes */
 @media only screen and (max-width: 570px){
     #portfolio-headText{
